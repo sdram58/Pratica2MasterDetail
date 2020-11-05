@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pratica2MasterDetail</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="cargar">Cargar</string>
+    <string name="push_load">Pulsa cargar para ver libros</string>
+    <string name="ver_fecha">Ver fecha</string>
+    <string name="ver">Ver</string>
+    <string name="publicated_in">Se publicó en</string>
+</resources>
